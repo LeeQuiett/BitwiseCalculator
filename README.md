@@ -1,4 +1,6 @@
 # bitwise-calculator
+- 비트 연산자를 활용하여 덧셈, 뺄셈, 곱셈, 나눗셈을 구현합니다.
+  
 ## 주요 구성 요소와 함수
 
 ### 1. decimalTobinary 함수
